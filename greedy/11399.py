@@ -1,4 +1,4 @@
-import sys
+#import sys
 peoples= []
 sum = 0
 time = 0
